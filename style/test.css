@@ -7,3 +7,26 @@
     color: blue;
     cursor:pointer;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.box{
+    padding: 20px;
+    background: red;
+    width: 110px;
+}
+.box2{
+    background: green;
+    padding: 20px;
+    width: 110px;
+
+}
+.box3{
+    background: blue; 
+     padding: 20px;
+    width: 110px;
+
+}
